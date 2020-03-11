@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tephaphai.dennisecb.com/sitemap.xml
